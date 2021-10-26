@@ -32,7 +32,6 @@
     "insta-fetcher": "^1.2.3",
     "jsdom": "^16.5.2",
     "kasu.nhentaiapi.js": "^2.9.2",
-    "marker": "^0.1.2",
     "mathjs": "^9.4.2",
     "moment-timezone": "^0.5.33",
     "ms": "^2.1.3",
